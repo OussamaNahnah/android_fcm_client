@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "960412282648",
+    "project_id": "laravel-5e0a0",
+    "storage_bucket": "laravel-5e0a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960412282648:android:f5d9e0d4294c86cc9fb86d",
+        "android_client_info": {
+          "package_name": "com.example.easychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960412282648-dhshfihfs0plka6erq5b5et9106cpluf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkdKlvBP2aqETk6StG6aYTVqzKjovCKrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960412282648-dhshfihfs0plka6erq5b5et9106cpluf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960412282648:android:9f2e7fa7fb0f7a099fb86d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960412282648-dhshfihfs0plka6erq5b5et9106cpluf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkdKlvBP2aqETk6StG6aYTVqzKjovCKrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960412282648-dhshfihfs0plka6erq5b5et9106cpluf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
